@@ -8,7 +8,7 @@
  * @b: int 2
  * Return: void
  */
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
 	int blx;
 
